@@ -1,12 +1,19 @@
-DEV JARIWALA
-Software Engineer • CS @ Michigan
+# Hey, I'm Dev
 
-Hey, I'm Dev 👋
+I'm a Computer Science student at the **University of Michigan** 〽️ interested in backend systems, distributed systems, and full-stack engineering.
 
-I'm a Computer Science student at the University of Michigan interested in backend systems, distributed systems, and full-stack engineering.
+Previously, I worked on automated infotainment testing at **Hyundai America Technical Center through KPIT Technologies**, and I've built software using C++, Python, TypeScript, React, Flask, and PostgreSQL.
 
-Previously, I worked on automated infotainment testing at Hyundai America Technical Center through KPIT and built full-stack applications using Python, TypeScript, React, Flask, and PostgreSQL.
+Currently building **DevScope**, a repository intelligence engine for analyzing code architecture, dependencies, Git history, and engineering risk.
 
-Currently building DevScope, a repository intelligence engine for analyzing code architecture, dependencies, Git history, and engineering risk.
+### What I'm interested in
 
-C++ · Python · TypeScript · React · PostgreSQL · Linux
+Backend Systems • Distributed Systems • Full-Stack Engineering • Developer Infrastructure
+
+### Technologies
+
+C++ • Python • TypeScript • React • PostgreSQL • Linux
+
+### Connect
+
+[LinkedIn](YOUR_LINK) • [Portfolio](YOUR_LINK)
