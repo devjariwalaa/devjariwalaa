@@ -16,4 +16,4 @@ C++ • Python • TypeScript • React • PostgreSQL • Linux
 
 ### Connect
 
-[LinkedIn](YOUR_LINK) • [Portfolio](YOUR_LINK)
+[LinkedIn]((https://www.linkedin.com/in/dev-jariwalaa/)) • [Portfolio]((https://devjariwala.vercel.app/))
