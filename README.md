@@ -1,4 +1,4 @@
-# Hey, I'm Dev
+# Hey, I'm Dev Jariwala!
 
 I'm a Computer Science student at the **University of Michigan** 〽️ interested in backend systems, distributed systems, and full-stack engineering.
 
@@ -16,4 +16,4 @@ C++ • Python • TypeScript • React • PostgreSQL • Linux
 
 ### Connect
 
-[LinkedIn]((https://www.linkedin.com/in/dev-jariwalaa/)) • [Portfolio]((https://devjariwala.vercel.app/))
+[LinkedIn](https://www.linkedin.com/in/dev-jariwalaa/) • [Portfolio](https://devjariwala.vercel.app/)
